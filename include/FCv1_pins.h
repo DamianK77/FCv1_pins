@@ -16,5 +16,3 @@
 
 #define FC_PIN_LED1 1
 #define FC_PIN_LED2 2
-
-void func(void);
